@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <title>24 November 2026: five signals from the world</title>
+  <desc>Original editorial poster covering the Strait of Hormuz, Ukraine, China and Pakistan's space mission, a UN femicide report, and WHO aid for Cuba.</desc>
+  <defs>
+    <style>
+      text{font-family:Arial,Helvetica,sans-serif;letter-spacing:-.5px}
+      .small{font-size:22px;font-weight:800;letter-spacing:2.3px}
+      .title{font-size:39px;font-weight:900;letter-spacing:-1.3px}
+      .body{font-size:27px;font-weight:700;letter-spacing:-.7px}
+      .fine{font-size:19px;font-weight:700;letter-spacing:.3px}
+    </style>
+    <pattern id="sea" width="32" height="22" patternUnits="userSpaceOnUse">
+      <path d="M0 11 Q8 6 16 11 T32 11" fill="none" stroke="#70aeb6" stroke-opacity=".32" stroke-width="2"/>
+    </pattern>
+  </defs>
+
+  <rect width="1024" height="1024" fill="#f1eee5"/>
+  <rect x="30" y="28" width="964" height="113" rx="19" fill="#102633"/>
+  <text x="55" y="74" font-size="31" font-weight="900" fill="#f7f2e8" letter-spacing="-.6">THE WORLD</text>
+  <text x="55" y="112" font-size="31" font-weight="900" fill="#f7f2e8" letter-spacing="-.6">IN ONE DAY</text>
+  <rect x="676" y="48" width="2" height="72" fill="#7296a1"/>
+  <text x="704" y="83" font-size="48" font-weight="900" fill="#f6c764">24 NOV</text>
+  <text x="706" y="116" font-size="28" font-weight="800" fill="#f7f2e8" letter-spacing="3">TUESDAY · 2026</text>
+
+  <!-- Main story: a schematic sea lane, not an illustration of any named ship. -->
+  <rect x="30" y="156" width="964" height="304" rx="18" fill="#123e4b"/>
+  <path d="M621 156H976Q994 156 994 174V442Q994 460 976 460H621Z" fill="#205d68"/>
+  <rect x="621" y="156" width="373" height="304" fill="url(#sea)"/>
+  <path d="M634 427C705 380 759 413 819 361S911 314 988 279" fill="none" stroke="#f5c76b" stroke-width="9" stroke-linecap="round" stroke-dasharray="18 17"/>
+  <path d="M654 378l95 0 -13 21 -65 0z M761 327l92 0 -14 21 -63 0z M862 267l91 0 -13 21 -65 0z" fill="#d7e8dd"/>
+  <path d="M676 365h48l-7-14h-31z M782 314h45l-7-13h-29z M882 254h45l-6-13h-30z" fill="#aacac6"/>
+  <path d="M721 338l13-23 7 17 13-8 -11 27z M824 286l12-24 9 18 11-10 -9 29z M923 226l11-21 9 18 10-9-8 26z" fill="#ec6d52"/>
+  <circle cx="748" cy="341" r="5" fill="#f8d678"/><circle cx="850" cy="288" r="5" fill="#f8d678"/><circle cx="948" cy="229" r="5" fill="#f8d678"/>
+  <text x="58" y="194" class="small" fill="#f4c96a">MIDDLE EAST · SHIPPING</text>
+  <text x="58" y="244" class="title" fill="#fff9ed">STRAIT OF</text>
+  <text x="58" y="288" class="title" fill="#fff9ed">HORMUZ</text>
+  <rect x="58" y="313" width="50" height="5" rx="2" fill="#f4c96a"/>
+  <text x="58" y="355" class="body" fill="#fff9ed">IRAN SAYS 3 TANKERS</text>
+  <text x="58" y="389" class="body" fill="#fff9ed">HIT NAVAL MINES</text>
+  <text x="58" y="435" class="fine" fill="#a9d0d3">AP · REPORTED 24 NOV</text>
+
+  <!-- Ukraine: broken roof and two lit windows make the civilian setting explicit. -->
+  <rect x="30" y="475" width="469" height="249" rx="18" fill="#e7dbcb"/>
+  <rect x="30" y="475" width="469" height="10" rx="5" fill="#e66f55"/>
+  <text x="54" y="517" class="small" fill="#9a4939">EUROPE · UKRAINE</text>
+  <text x="54" y="561" font-size="36" font-weight="900" fill="#17323d">ZAPORIZHZHIA</text>
+  <text x="54" y="597" class="body" fill="#17323d">RUSSIAN STRIKE</text>
+  <text x="54" y="672" font-size="53" font-weight="900" fill="#b34837">2 DEAD</text>
+  <text x="54" y="704" class="body" fill="#17323d">48 WOUNDED</text>
+  <g transform="translate(336 553)">
+    <path d="M5 70l49-46 22 18 26-18 43 46" fill="none" stroke="#a3503d" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M18 70v91h113V70" fill="#cfad98"/>
+    <path d="M18 110h113M75 70v91" fill="none" stroke="#b7826e" stroke-width="5"/>
+    <rect x="35" y="91" width="23" height="23" fill="#f4c864"/><rect x="92" y="91" width="23" height="23" fill="#f4c864"/>
+  </g>
+
+  <!-- Asia: station and ascent track, without mimicking a space agency mark. -->
+  <rect x="515" y="475" width="479" height="249" rx="18" fill="#d9e8e9"/>
+  <rect x="515" y="475" width="479" height="10" rx="5" fill="#318294"/>
+  <text x="539" y="517" class="small" fill="#2f6a78">ASIA · SPACE</text>
+  <text x="539" y="561" font-size="36" font-weight="900" fill="#17323d">SHENZHOU 24</text>
+  <text x="539" y="599" class="body" fill="#17323d">CREW REVEALED</text>
+  <text x="539" y="664" font-size="27" font-weight="900" fill="#215c6a">PAKISTANI ASTRONAUT</text>
+  <text x="539" y="697" class="body" fill="#17323d">TO JOIN MISSION</text>
+  <g transform="translate(875 531)" fill="none" stroke="#437f8e" stroke-width="6" stroke-linecap="round">
+    <circle cx="71" cy="38" r="35" stroke="#93bac0" stroke-width="3"/>
+    <path d="M12 135c25-32 54-35 82-65" stroke-dasharray="7 9"/>
+    <path d="M24 75l20-14 20 14-20 61z" fill="#eff4ee" stroke="#2b6371"/>
+    <path d="M26 76l-12 15v18l23-13M62 76l12 15v18L51 96" fill="#85adba"/>
+    <circle cx="44" cy="84" r="5" fill="#e9bc65" stroke="none"/>
+  </g>
+
+  <!-- Global rights report: the number is the visual anchor. -->
+  <rect x="30" y="739" width="469" height="249" rx="18" fill="#f0d9c5"/>
+  <rect x="30" y="739" width="469" height="10" rx="5" fill="#bd664c"/>
+  <text x="54" y="780" class="small" fill="#8e4b3d">WORLD · UN REPORT</text>
+  <text x="54" y="850" font-size="74" font-weight="900" fill="#9b4438">47,000</text>
+  <text x="54" y="891" class="body" fill="#243b40">WOMEN &amp; GIRLS KILLED</text>
+  <text x="54" y="924" font-size="24" font-weight="700" fill="#243b40">BY PARTNERS OR FAMILY</text>
+  <text x="54" y="961" class="fine" fill="#76544b">2025 FIGURE · RELEASED 24 NOV</text>
+  <g transform="translate(373 783)" fill="#bf745b">
+    <circle cx="14" cy="12" r="10"/><path d="M2 27h24l9 48H-7z"/>
+    <circle cx="51" cy="12" r="10"/><path d="M39 27h24l9 48H30z"/>
+    <circle cx="88" cy="12" r="10"/><path d="M76 27h24l9 48H67z"/>
+  </g>
+
+  <!-- Americas/health: a clean vaccine vial with no borrowed emblem. -->
+  <rect x="515" y="739" width="479" height="249" rx="18" fill="#c8ddd3"/>
+  <rect x="515" y="739" width="479" height="10" rx="5" fill="#4c9077"/>
+  <text x="539" y="780" class="small" fill="#3f7765">AMERICAS · HEALTH</text>
+  <text x="539" y="846" font-size="60" font-weight="900" fill="#246954">$2 MILLION</text>
+  <text x="539" y="891" class="body" fill="#173b36">WHO SUPPORT FOR CUBA</text>
+  <text x="539" y="925" font-size="25" font-weight="700" fill="#173b36">VACCINES + EQUIPMENT</text>
+  <text x="539" y="961" class="fine" fill="#3f7765">ANNOUNCED 24 NOV</text>
+  <g transform="translate(892 782)">
+    <rect x="0" y="19" width="58" height="103" rx="9" fill="#f3f4e9" stroke="#5e957f" stroke-width="5"/>
+    <rect x="8" y="3" width="42" height="23" rx="3" fill="#5e957f"/>
+    <path d="M14 73h30M29 58v30" stroke="#5e957f" stroke-width="8" stroke-linecap="round"/>
+  </g>
+</svg>
